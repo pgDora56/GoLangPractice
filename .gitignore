@@ -2,3 +2,4 @@
 *.db
 *.csv
 test-twitter/
+test-smtp/
