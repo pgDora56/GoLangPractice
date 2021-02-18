@@ -1,0 +1,15 @@
+[group]
+name = "TrySail"
+company = "MusicRay'n"
+
+[[group.member]]
+name = "Momo Asakura"
+age = 25
+
+[[group.member]]
+name = "Sora Amamiya"
+age = 26
+
+[[group.member]]
+name = "Shiina Natsukawa"
+age = 24
